@@ -16,7 +16,7 @@ public class AppTest {
 	String baseURI = "http://www.omdbapi.com/";
 	
 	//Siteden alinan ApiKey in buraya girilmesi gerekmektedir!!!
-	String apiKey = "a6316f1";
+	String apiKey = "d9d3e4a5";
 	
 	@Test
 	public void testSorcererStoneMovie() {
